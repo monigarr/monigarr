@@ -14,7 +14,15 @@ MLflow • Jupyter • Docker • Unity • Blender • GitHub Actions
 ## Learning & Researching
 - Scaling reinforcement learning with large models  
 - Advanced LLM fine-tuning and synthetic data pipelines  
-- AI-first product design (OpenAI / Gauntlet-style)  
+- AI-first product design (OpenAI / Gauntlet-style)
 
-## Let’s Connect
+## Experiments
+- [ResearchEngineer Blog](https://researchengineer.wordpress.com)
+- [MohawkLanguage.ca](https://www.mohawklanguage.ca)
+- [3D XR Production](https://www.MoniGarr.com)
+- [Fab](https://www.fab.com/sellers/MoniGarr.com%20LLC)
+- [Patreon](https://www.patreon.com/monigarr)
+- [GumRoad](https://www.gumroad.com/monigarr)
+
+## Connect
 [monigarr.com](https://monigarr.com) • [LinkedIn](https://www.linkedin.com/in/monigarr)  
