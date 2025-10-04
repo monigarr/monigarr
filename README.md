@@ -14,7 +14,7 @@ MLflow • Jupyter • Docker • Unity • Blender • GitHub Actions
 ## Learning & Researching
 - Scaling reinforcement learning with large models  
 - Advanced LLM fine-tuning and synthetic data pipelines  
-- AI-first product design (OpenAI / Gauntlet-style)
+- AI-first product design
 
 ## Experiments
 - [ResearchEngineer Blog](https://researchengineer.wordpress.com)
