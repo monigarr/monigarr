@@ -9,7 +9,7 @@ AI Researcher & Engineer | Building the future of AI-first systems
 
 ## Core Stack
 Python • PyTorch • TensorFlow • Hugging Face • RLlib • Gymnasium  
-MLflow • Jupyter • Docker • Unity • Blender • GitHub Actions  
+MLflow • Jupyter • Docker • Unity • Blender • GitHub Actions • Cursor
 
 ## Learning & Researching
 - Scaling reinforcement learning with large models  
