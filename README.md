@@ -1,83 +1,43 @@
-# MoniGarr
-
-*For agencies and partners deploying AI in high-consequence environments: my work provides the verification layer between generative output and institutional trust."
-
-AI-First Architect / Engineer • Applied AI Systems • Low-Resource NLP • Responsible AI Infrastructure
-
-I design and build AI-first systems for real-world environments where trust, verification, reliability, and institutional constraints matter.
-
-My work spans pre-LLM conversational systems, low-resource language technology, reinforcement learning, autonomous-system safety research, synthetic data workflows, XR systems, and modern AI engineering pipelines. I focus on turning frontier AI capabilities into durable, auditable, operational systems.
-
-Currently: Gauntlet AI Challenger (GFA Cohort 2), building production-grade AI systems under real-world constraints with emphasis on federal, healthcare, and mission-critical deployment contexts.
-
+# ⚡ MoniGarr (Monica Peters)
+**AI-First Systems Architect | Federal Compliance & Autonomous Navigation**
+*Gauntlet for America Cohort 2 | Low-Resource Language Formalization*
 
 ---
 
-## Core Focus
+## Strategic Mandate
 
-### AI-First Architecture & Engineering
-- Production-oriented AI system design
-- Agentic workflow architecture
-- Evaluation-led development
-- Human-in-the-loop verification
-- Observability, telemetry, and auditability
-- Brownfield integration into legacy systems
+I architect deterministic, auditable, and ethically-bounded AI systems for **high-risk institutional deployment**. My practice bridges the gap between generative AI capability and federal-grade reliability—specifically in degraded environments (GPS-denied, low-bandwidth, adversarial input).
 
-### Federal / Enterprise AI Readiness
-- Systems designed for constrained, high-trust environments
-- Clear trust boundaries and failure modes
-- Secure-by-design implementation patterns
-- Documentation suitable for engineering, review, and handoff
-- Practical deployment thinking across cloud, local, and hybrid environments
-
-### Low-Resource & Polysynthetic Language AI
-- Kanien’kéha / Mohawk language technology
-- Custom tokenizers and morphology-aware NLP pipelines
-- Language stewardship-aligned AI system design
-- Applied research for culturally and linguistically complex data
-
-### Reinforcement Learning & Decision Systems
-- Modernized reinforcement learning pipelines
-- Gymnasium / PyTorch compatible SAC agents
-- Reproducible experiments, logging, and model cards
-- Safety-aware research for uncertainty, navigation, and failure detection
-
+**Hiring Signal for Federal Partners & SpaceX/xAI:**
+- I do not build "demos." I build **mission-ready frameworks**.
+- I prioritize **false certainty detection** over raw output.
+- I specialize in **low-resource sovereignty** (hardware + language).
+- My RL agents are **reproducible, evaluatable, and safe**.
 
 ---
 
-## Technical Stack
+## Core Competencies (Enterprise & Federal-Facing)
 
-Python • TypeScript • Kotlin • PyTorch • TensorFlow • Hugging Face • LangChain • Langfuse • MLflow • Jupyter • Docker • GitHub Actions • Next.js • Vercel • Railway • AWS • Gymnasium • RLlib • Unity • Blender • Android • iOS
-
-Tooling choices prioritize reproducibility, interpretability, maintainability, and real-world deployment readiness.
-
----
-
-## Selected Public Work
-
-### mini-indig-llm-kit
-Polysynthetic language mini-LLM starter kit for low-resource language research, custom tokenization, and morphology-aware NLP.
-
-### SMBNA
-Belief-centric navigation framework for detecting false certainty and refusing unsafe decisions in GPS-degraded autonomous systems.
-
-### ARKHE
-Research framework for exploring first principles, emergent structure, mathematical sequences, and rule-based analytical systems.
-
-### spinningup
-Modernized fork of OpenAI Spinning Up for current Python, PyTorch, Gymnasium, and MuJoCo environments.
-
-### Language-Worlds
-AI-driven XR language learning environments combining immersive systems, language technology, and cultural learning design.
+| Domain                       | Implementation Focus                                                 | Relevant Repo         |
+| :---                         | :---                                                                 | :---                  |
+| **Autonomous Navigation**    | Belief state tracking, GPS-denied pathfinding, failure mode refusal  | `SMBNA`               |
+| **Edge AI / Android**        | Real-time vision streaming, DRM, QoS for defense logistics           | `fluvian-sdk`         |
+| **Low-Resource LLMs**        | Custom tokenization (polysynthetic), QLoRA fine-tuning, sovereignty  | `mini-indig-llm-kit`  |
+| **Deterministic RL**         | Modernized SAC agents, Gymnasium/MuJoCo, evaluation pipelines        | `spinningup` (fork)   |
+| **Agentic Safety**           | Formal verification of LLM tool-use, institutional constraint layers | `ai-ethos-registry`   |
+| **XR Training Environments** | Procedural world generation for high-consequence simulation          | `Language-Worlds`     |
 
 ---
 
-## External References
+## Technical Arsenal (Hardened Stack)
 
-- Indigenous Language Systems: https://www.mohawklanguage.ca
-- Research Notes: https://researchengineer.wordpress.com
-- Creative / Technical Systems: https://www.monigarr.com
-- 3D & XR Assets: https://www.fab.com/sellers/MoniGarr.com%20LLC
+```text
+Inference/Backend: PyTorch, TensorFlow, JAX, vLLM, Triton
+Infrastructure:  AWS (GovCloud ready), Vercel, Railway, Docker, K8s
+Agent Frameworks: LangChain, LangGraph, AutoGen, DSPy
+RL/Control:      Gymnasium, MuJoCo, RLlib, Stable-Baselines3
+Vision/Edge:     OpenGL, Vulkan, Android NDK, MediaCodec
+Governance:      MLflow, LangFuse, LangChain, Pydantic, Great Expectations
 
 ---
 
