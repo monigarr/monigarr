@@ -1,5 +1,7 @@
 # MoniGarr
 
+*For agencies and partners deploying AI in high-consequence environments: my work provides the verification layer between generative output and institutional trust."
+
 AI-First Architect / Engineer • Applied AI Systems • Low-Resource NLP • Responsible AI Infrastructure
 
 I design and build AI-first systems for real-world environments where trust, verification, reliability, and institutional constraints matter.
