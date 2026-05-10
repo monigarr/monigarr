@@ -29,7 +29,6 @@ I architect deterministic, auditable, and ethically-bounded AI systems for **hig
 
 ## Technical Arsenal (Hardened Stack)
 
-```text
 Inference/Backend: PyTorch, TensorFlow, JAX, vLLM, Triton
 Infrastructure:  AWS (GovCloud ready), Vercel, Railway, Docker, K8s
 Agent Frameworks: LangChain, LangGraph, AutoGen, DSPy
