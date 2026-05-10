@@ -8,7 +8,7 @@
 
 ---
 
-## Strategic Mandate
+## Focused Mandate
 
 I architect deterministic, auditable, and ethically-bounded AI systems for **high-risk institutional deployment**. My practice bridges the gap between generative AI capability and federal-grade reliability—specifically in degraded environments (GPS-denied, low-bandwidth, adversarial input).
 
@@ -23,7 +23,7 @@ I architect deterministic, auditable, and ethically-bounded AI systems for **hig
 | **Low-Resource LLMs**        | Custom tokenization (polysynthetic), QLoRA fine-tuning, sovereignty  | `mini-indig-llm-kit`  |
 | **Deterministic RL**         | Modernized SAC agents, Gymnasium/MuJoCo, evaluation pipelines        | `spinningup` (fork)   |
 | **Agentic Safety**           | Formal verification of LLM tool-use, institutional constraint layers | `ai-ethos-registry`   |
-| **XR Training Environments** | Procedural world generation for high-consequence simulation          | `Language-Worlds`     |
+| **XR Training Environments** | Procedural generation for high-consequence simulation                | ``                    |
 
 ---
 
