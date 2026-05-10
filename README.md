@@ -2,7 +2,7 @@
 
 
 
-# ⚡ MoniGarr (Monica Peters)
+# ⚡ MoniGarr
 **AI-First Systems Architect | Federal Compliance & Autonomous Navigation**
 *Gauntlet for America Cohort 2 | Low-Resource Language Formalization*
 
@@ -11,12 +11,6 @@
 ## Strategic Mandate
 
 I architect deterministic, auditable, and ethically-bounded AI systems for **high-risk institutional deployment**. My practice bridges the gap between generative AI capability and federal-grade reliability—specifically in degraded environments (GPS-denied, low-bandwidth, adversarial input).
-
-**Hiring Signal for Federal Partners & SpaceX/xAI:**
-- I do not build "demos." I build **mission-ready frameworks**.
-- I prioritize **false certainty detection** over raw output.
-- I specialize in **low-resource sovereignty** (hardware + language).
-- My RL agents are **reproducible, evaluatable, and safe**.
 
 ---
 
